@@ -11,7 +11,9 @@
   "author": "Hung",
   "license": "MIT",
   "dependencies": {
-    "gh-pages": "^6.1.1",
     "node-sass": "^9.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
